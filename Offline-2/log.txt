@@ -1,0 +1,6 @@
+1. add user program trace.c as explained in lab sheet
+2. add a systemcall trace as explained in lab sheet.
+	a. I need not follow step 6 and 7 as my job is done under uint64 sys_trace(){} in sysproc.c
+3. follow tamim vai patch file. (read carefully the blue lines)
+# pid, syscall name and return value are successfully printed.
+# now time for args..;
